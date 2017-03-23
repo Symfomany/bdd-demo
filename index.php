@@ -10,7 +10,7 @@
 	<?php
 
 	$user = 'root';
-	$pass = 'zuzu';
+	$pass = 'jecode4lyon';
 
 	try {
 	    $dbh = new PDO('mysql:host=localhost;dbname=cineacademy', $user, $pass);
